@@ -1,7 +1,7 @@
 # Wuu2
 
 A fun little project for learning weighted probability and using different text (.ttf) files.
-A short program that generates a random adjective, color, and animal, for greeting someone with.
+The program generates a random adjective, color, and animal, for greeting someone with.
 
 Uses classes, weighted probability (Mersenne Twister), many data types such as strings and booleans, and SFML (Standard Fast Media Library).
 
