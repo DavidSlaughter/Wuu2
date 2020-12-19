@@ -1,6 +1,6 @@
 # Wuu2
 
-A short program that generates a random adjective, color, and animal name, for greeting someone with.
+A short program that generates a random adjective, color, and animal name, for greeting someone with. (just a fun little project for learning weighted probability).
 
 Uses classes, weighted probability (Mersenne Twister), many data types such as strings and booleans, and SFML (Standard Fast Media Library).
 
