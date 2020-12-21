@@ -1,0 +1,10 @@
+﻿  Window.cpp
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(63,41): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(65,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(65,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(66,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(76,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(77,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(133,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\aaaProgramming\Random Programs\wuu2sfml\wuu2sfml\Window.cpp(134,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  wuu2sfml.vcxproj -> E:\aaaProgramming\Random Programs\wuu2sfml\x64\Debug\wuu2sfml.exe
